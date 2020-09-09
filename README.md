@@ -1,5 +1,9 @@
 # PHP POO WORKSHOP
 
+For this workshop, you'll need an apache server for running PHP files.
+
+[XAMPP](https://www.apachefriends.org/fr/download.html)
+
 ### Inside _classes_ folder
 
 **dice.php**
