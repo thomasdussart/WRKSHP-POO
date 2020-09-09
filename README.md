@@ -4,6 +4,8 @@ For this workshop, you'll need an apache server for running PHP files.
 
 [XAMPP](https://www.apachefriends.org/fr/download.html)
 
+_Clone the content of this repository to xampp/htdocs_
+
 ### Inside _classes_ folder
 
 **dice.php**
