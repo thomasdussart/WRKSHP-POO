@@ -151,10 +151,9 @@ class player{
 ```
 <?php
 
-	$classes = array("monster", "player", "dice",);
-	foreach ($classes as $i => $class) {
-		include "classes/" . $classes[$i] . ".php";
-	}
+	include "./classes/dice.php";
+	include "./classes/monster.php";
+	include "./classes/player.php";
 
 	function pause($x)
 	{
