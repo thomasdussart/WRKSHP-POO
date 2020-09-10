@@ -6,6 +6,11 @@ For this workshop, you'll need an apache server for running PHP files.
 
 _Clone the content of this repository to xampp/htdocs_
 
+## Looks like this :
+
+<img src="howto.PNG"
+     alt="structure" />
+
 ### Inside _classes_ folder
 
 **dice.php**
